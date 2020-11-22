@@ -1,0 +1,21 @@
+h1 {
+    font-family: Calibri, serif;
+}
+
+body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: peachpuff;
+    font-family: "Calibri Light", serif;
+}
+
+label {
+    /*text-decoration: underline;*/
+}
+
+.jumbotron{
+    background-image: url("jumbotron.jpg");
+    background-size: cover;
+    height: 100%;
+
+}
